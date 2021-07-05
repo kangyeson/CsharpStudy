@@ -1,0 +1,13 @@
+C:\Users\kangyeson\Desktop\NET_Core\CsharpStudy\consoleStudy\consoleStudy\bin\Debug\netcoreapp3.1\consoleStudy.exe
+C:\Users\kangyeson\Desktop\NET_Core\CsharpStudy\consoleStudy\consoleStudy\bin\Debug\netcoreapp3.1\consoleStudy.deps.json
+C:\Users\kangyeson\Desktop\NET_Core\CsharpStudy\consoleStudy\consoleStudy\bin\Debug\netcoreapp3.1\consoleStudy.runtimeconfig.json
+C:\Users\kangyeson\Desktop\NET_Core\CsharpStudy\consoleStudy\consoleStudy\bin\Debug\netcoreapp3.1\consoleStudy.runtimeconfig.dev.json
+C:\Users\kangyeson\Desktop\NET_Core\CsharpStudy\consoleStudy\consoleStudy\bin\Debug\netcoreapp3.1\consoleStudy.dll
+C:\Users\kangyeson\Desktop\NET_Core\CsharpStudy\consoleStudy\consoleStudy\bin\Debug\netcoreapp3.1\consoleStudy.pdb
+C:\Users\kangyeson\Desktop\NET_Core\CsharpStudy\consoleStudy\consoleStudy\obj\Debug\netcoreapp3.1\consoleStudy.csproj.AssemblyReference.cache
+C:\Users\kangyeson\Desktop\NET_Core\CsharpStudy\consoleStudy\consoleStudy\obj\Debug\netcoreapp3.1\consoleStudy.AssemblyInfoInputs.cache
+C:\Users\kangyeson\Desktop\NET_Core\CsharpStudy\consoleStudy\consoleStudy\obj\Debug\netcoreapp3.1\consoleStudy.AssemblyInfo.cs
+C:\Users\kangyeson\Desktop\NET_Core\CsharpStudy\consoleStudy\consoleStudy\obj\Debug\netcoreapp3.1\consoleStudy.csproj.CoreCompileInputs.cache
+C:\Users\kangyeson\Desktop\NET_Core\CsharpStudy\consoleStudy\consoleStudy\obj\Debug\netcoreapp3.1\consoleStudy.dll
+C:\Users\kangyeson\Desktop\NET_Core\CsharpStudy\consoleStudy\consoleStudy\obj\Debug\netcoreapp3.1\consoleStudy.pdb
+C:\Users\kangyeson\Desktop\NET_Core\CsharpStudy\consoleStudy\consoleStudy\obj\Debug\netcoreapp3.1\consoleStudy.genruntimeconfig.cache
